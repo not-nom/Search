@@ -1,0 +1,17 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-items: center;
+
+    height: 50px;
+
+    background-color: #ececec;
+
+}
+.title{
+    margin: 0;
+    padding: 10px 5px;
+    font-family: 'Roboto Slab', serif;
+
+}
